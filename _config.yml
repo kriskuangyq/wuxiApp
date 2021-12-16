@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://kriskuangyq.github.io/wuxiApp/
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: kyq
+subtitle: "kyq"
+description: "kyq"
+keywords: kyq
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: https://kriskuangyq.github.io/wuxiApp/
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -51,12 +51,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: kyq
 organization: 
 organization_url: 
 github_username: mzlogin
 location: Wuhan, China
-email: chumpma@gmail.com
+email: kuangyq1991@gmail.com
 
 # ---------------- #
 #    Navigation    #
